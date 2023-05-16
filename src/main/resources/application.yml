@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: mydb
+    url: jdbc:mysql://127.0.0.1:3301/steveschooldatabase?allowMultiQueries=true&useUnicode=true&charaterEncoding=utf-8
+    username: okusr
+    password: 3mWZ3BhdVFQDOjG4MKWy
+    driver-class-name: com.mysql.cj.jdbc.Driver
